@@ -40,3 +40,6 @@
 - NAT Port Mapping Protocol https://en.wikipedia.org/wiki/NAT_Port_Mapping_Protocol
 - Port Control Protocol https://en.wikipedia.org/wiki/Port_Control_Protocol
 
+### Интересные ссылки по теме
+ - TCP против UDP https://habr.com/ru/company/oleg-bunin/blog/461829/
+ 
