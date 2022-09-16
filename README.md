@@ -44,4 +44,6 @@
  - TCP против UDP https://habr.com/ru/company/oleg-bunin/blog/461829/
  - Обзор некоторых p2p (2006 год) https://www.researchgate.net/publication/3454643_A_Survey_and_Comparison_of_Peer-to-Peer_Overlay_Network_Schemes
  
+### Истории по теме
+ - Как сделать стриминговый сервис https://habr.com/ru/post/687360/
  
